@@ -1,0 +1,26 @@
+/******** Seletor Universal
+* {
+    border: 1px solid red;
+}
+
+********* Seletor de Texto
+h1 {
+    color: green;
+}
+
+********* Seletor de Classe (usado em varios/ pode repetir)
+p.verde {
+    color: green;
+}*/
+
+/********* Seletor de ID (usado unica vez/ não repete)
+#cabecalho {
+    border: 1px solid blue;
+}*/
+
+/******** Seletor de Filho (Seleciona qualquer elemento a filho de li)
+li>a {
+    color: red;
+    text-decoration: none;
+}*/
+
